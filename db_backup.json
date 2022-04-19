@@ -1,0 +1,34 @@
+{
+  "guests": [
+    {
+      "id": "C0D1G0_Unico",
+      "name": "Flavio",
+      "bought": false,
+      "dateBought": null,
+      "itemBought": null
+    },
+    {
+      "id": "C0D1G0_Unico2",
+      "name": "Math",
+      "bought": false,
+      "dateBought": null,
+      "itemBought": null
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "name": "Google",
+      "link": "https://www.google.com",
+      "image": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_92x30dp.png",
+      "bought": false
+    },
+    {
+      "id": "2",
+      "name": "Retool",
+      "link": "https://www.google.com",
+      "image": "https://camo.githubusercontent.com/3d534fdd9e85c9858cf00f910f469704e88aaf4db32574f11b0027b84e01105a/68747470733a2f2f692e696d6775722e636f6d2f4942497441546e2e706e67g",
+      "bought": false
+    }
+  ]
+}
