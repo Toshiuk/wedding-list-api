@@ -3,9 +3,9 @@
     {
       "id": "C0D1G0_Unico",
       "name": "Flavio",
-      "bought": true,
-      "dateBought": "2022-04-19T18:25:43.511Z",
-      "itemBought": "1"
+      "bought": false,
+      "dateBought": null,
+      "itemBought": null
     },
     {
       "id": "C0D1G0_Unico2",
@@ -21,7 +21,7 @@
       "name": "Google",
       "link": "https://www.google.com",
       "image": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_92x30dp.png",
-      "bought": true
+      "bought": false
     },
     {
       "id": "2",
