@@ -2,189 +2,161 @@
   "guests": [
     {
       "id": "Toshi001",
-      "name": "flavio",
-      "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "name": "Toshi",
+      "bought": true,
+      "itemsBought": []
     },
     {
       "id": "Lei002",
       "name": "Lei",
-      "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "bought": true,
+      "itemsBought": []
     },
     {
       "id": "Marina003",
       "name": "Marina",
-      "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "bought": true,
+      "itemsBought": []
     },
     {
       "id": "Pablo004",
       "name": "Pablo",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Juliano005",
       "name": "Juliano",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Roberta006",
       "name": "Roberta",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Breno007",
       "name": "Breno",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Maurilio008",
       "name": "Maurilio",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Renata009",
       "name": "Renata",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "James010",
       "name": "James",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Inês011",
       "name": "Inês",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Vanessa012",
       "name": "Vanessa",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Afonso013",
       "name": "Afonso",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Carina014",
       "name": "Carina",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "João015",
       "name": "João",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Débora016",
       "name": "Débora",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Rosário017",
       "name": "Rosário",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Nino018",
       "name": "Nino",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Mariana019",
       "name": "Mariana",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Helena020",
       "name": "Helena",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Félix021",
       "name": "Félix",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "João022",
       "name": "João Pedro",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Sandra023",
       "name": "Sandra",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     },
     {
       "id": "Luís024",
       "name": "Luís",
       "bought": false,
-      "dateBought": null,
-      "itemBought": null
+      "itemsBought": []
     }
   ],
   "items": [
     {
       "id": "001",
       "name": "Puff Poltrona em Veludo",
-      "bought": false,
-      "dateBought": null,
       "link": "https://www.sklum.com/pt/comprar-pufes/95989-poltrona-thiago-velvet-120-cm.html?id_c=188025",
       "price": "114,95",
       "image": "https://cdn.sklum.com/pt/wk/1169188/poltrona-thiago-velvet-120-cm.jpg?cf-resize=gallery",
-      "quantity": 1
+      "quantity": 0
     },
     {
       "id": "002",
       "name": "Bottle Rack Octopus",
-      "bought": false,
-      "dateBought": null,
       "link": "https://www.kare.pt/pt/garrafeiras/11908-bottle-rack-octopus-4025621614852.html",
       "price": "99,00",
       "image": "https://www.kare.pt/60199-thickbox_default/bottle-rack-octopus.jpg",
@@ -193,28 +165,22 @@
     {
       "id": "003",
       "name": "Aparador de Livros Lizard",
-      "bought": false,
-      "dateBought": null,
       "link": "https://www.kare.pt/pt/pecas-decorativas/13781-aparador-de-livros-lizard-2set-4025621519447.html",
       "price": "64,95",
       "image": "https://www.kare.pt/84021-thickbox_default/aparador-de-livros-lizard-2set.jpg",
-      "quantity": 1
+      "quantity": 0
     },
     {
       "id": "004",
       "name": "Prato Marcador",
-      "bought": false,
-      "dateBought": null,
       "link": "https://pt.bordallopinheiro.com/prato-marcador-34-antracite",
       "price": "26,00",
       "image": "https://pt.bordallopinheiro.com/content/images/thumbs/0003379_rua-nova-prato-marcador-34-antracite_540.jpeg",
-      "quantity": 1
+      "quantity": 0
     },
     {
       "id": "005",
       "name": "Chávena de Café com Pires",
-      "bought": false,
-      "dateBought": null,
       "link": "https://pt.bordallopinheiro.com/chavena-cafe-com-pires-antracite",
       "price": "18,00",
       "image": "https://pt.bordallopinheiro.com/content/images/thumbs/0003385_rua-nova-chavena-cafe-com-pires-antracite_540.jpeg",
@@ -223,8 +189,6 @@
     {
       "id": "006",
       "name": "Tigela",
-      "bought": false,
-      "dateBought": null,
       "link": "https://pt.bordallopinheiro.com/rua-nova-tigela-16-rosa-nuance",
       "price": "14,00",
       "image": "https://pt.bordallopinheiro.com/content/images/thumbs/0005607_rua-nova-tigela-16-rosa-nuance_540.jpeg",
@@ -233,8 +197,6 @@
     {
       "id": "007",
       "name": "Prato Raso",
-      "bought": false,
-      "dateBought": null,
       "link": "https://pt.bordallopinheiro.com/rua-nova-prato-raso-28-rosa-nuance",
       "price": "11,00",
       "image": "https://pt.bordallopinheiro.com/content/images/thumbs/0005604_rua-nova-prato-raso-28-rosa-nuance_540.jpeg",
@@ -243,8 +205,6 @@
     {
       "id": "008",
       "name": "Taça",
-      "bought": false,
-      "dateBought": null,
       "link": "https://pt.bordallopinheiro.com/rua-nova-taca-125-antracite",
       "price": "12,00",
       "image": "https://pt.bordallopinheiro.com/content/images/thumbs/0004354_rua-nova-taca-125-antracite_540.jpeg",
@@ -253,8 +213,6 @@
     {
       "id": "009",
       "name": "Prato Fruta",
-      "bought": false,
-      "dateBought": null,
       "link": "https://pt.bordallopinheiro.com/prato-fruta-22-antracite",
       "price": "10,00",
       "image": "https://pt.bordallopinheiro.com/content/images/thumbs/0003381_rua-nova-prato-fruta-22-antracite_540.jpeg",
@@ -263,8 +221,6 @@
     {
       "id": "010",
       "name": "Saladeira 35cm",
-      "bought": false,
-      "dateBought": null,
       "link": "https://pt.bordallopinheiro.com/rua-nova-saladeira-35-antracite",
       "price": "50,00",
       "image": "https://pt.bordallopinheiro.com/content/images/thumbs/0003386_rua-nova-saladeira-35-antracite_540.jpeg",
@@ -273,8 +229,6 @@
     {
       "id": "011",
       "name": "Saladeira 29cm",
-      "bought": false,
-      "dateBought": null,
       "link": "https://pt.bordallopinheiro.com/saladeira-29-antracite",
       "price": "44,00",
       "image": "https://pt.bordallopinheiro.com/content/images/thumbs/0003388_rua-nova-saladeira-29-antracite.jpeg",
@@ -283,8 +237,6 @@
     {
       "id": "012",
       "name": "Travessa",
-      "bought": false,
-      "dateBought": null,
       "link": "https://pt.bordallopinheiro.com/rua-nova-travessa-38-antracite",
       "price": "33,00",
       "image": "https://pt.bordallopinheiro.com/content/images/thumbs/0005965_rua-nova-travessa-38-antracite_540.jpeg",
@@ -293,8 +245,6 @@
     {
       "id": "013",
       "name": "Copos Altos Pack 4",
-      "bought": false,
-      "dateBought": null,
       "link": "https://vistaalegre.com/pt/bicos-castanho-pack-4-copos-altos-castanho-49001556-pt",
       "price": "40,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0035874_rm-bicos-castanho-pack-4-copos-altos-castanho_470.jpeg",
@@ -303,8 +253,6 @@
     {
       "id": "014",
       "name": "Cálices Água Pack 4",
-      "bought": false,
-      "dateBought": null,
       "link": "https://vistaalegre.com/pt/bicos-castanho-pack-4-calices-agua-castanho-49001549-pt",
       "price": "40,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0035879_rm-bicos-castanho-pack-4-calices-de-agua-castanho_470.jpeg",
@@ -313,8 +261,6 @@
     {
       "id": "015",
       "name": "Cálices Vinho Pack 4",
-      "bought": false,
-      "dateBought": null,
       "link": "https://vistaalegre.com/pt/bicos-castanho-pack-4-calices-de-vinho-branco-casta-49001551-pt",
       "price": "33,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0035877_es-bicos-castanho-pack-4-calices-de-vinho-branco-casta_470.jpeg",
@@ -323,8 +269,6 @@
     {
       "id": "016",
       "name": "Jarro",
-      "bought": false,
-      "dateBought": null,
       "link": "https://vistaalegre.com/pt/bicos-castanho-jarro-castanho-49001555-pt",
       "price": "45,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0035873_rm-bicos-castanho-jarro-castanho_470.jpeg",
@@ -333,8 +277,6 @@
     {
       "id": "017",
       "name": "Prato Raso - Casa Alba",
-      "bought": false,
-      "dateBought": null,
       "link": "https://vistaalegre.com/pt/casa-de-alba-prato-raso-21136759-pt",
       "price": "32,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0041715_us-casa-de-alba-prato-raso_470.jpeg",
@@ -343,8 +285,6 @@
     {
       "id": "018",
       "name": "Prato Sobremesa - Casa Alba",
-      "bought": false,
-      "dateBought": null,
       "link": "https://vistaalegre.com/pt/casa-de-alba-prato-sobremesa-21136760-pt",
       "price": "28,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0041716_us-casa-de-alba-prato-sobremesa_470.jpeg",
@@ -353,8 +293,6 @@
     {
       "id": "020",
       "name": "Travessa Oval Grande - Casa Alba",
-      "bought": false,
-      "dateBought": null,
       "link": "https://vistaalegre.com/pt/casa-de-alba-travessa-oval-grande-21136762-pt",
       "price": "80,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0041720_us-casa-de-alba-travessa-oval-grande_470.jpeg",
@@ -363,8 +301,6 @@
     {
       "id": "019",
       "name": "Travessa Oval Pequena - Casa Alba",
-      "bought": false,
-      "dateBought": null,
       "link": "https://vistaalegre.com/pt/casa-de-alba-travessa-oval-pequena-21136763-pt",
       "price": "65,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0041721_us-casa-de-alba-travessa-oval-pequena_470.jpeg",
@@ -373,8 +309,6 @@
     {
       "id": "020",
       "name": "Prato Sopa - Casa Alba",
-      "bought": false,
-      "dateBought": null,
       "link": "https://vistaalegre.com/pt/casa-de-alba-prato-sopa-21136860-pt",
       "price": "32,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0041717_us-casa-de-alba-prato-sopa_470.jpeg",
@@ -383,8 +317,6 @@
     {
       "id": "021",
       "name": "Chávena Chá com Pires - Casa Alba",
-      "bought": false,
-      "dateBought": null,
       "link": "https://vistaalegre.com/pt/casa-de-alba-chavena-cha-com-pires-21136768-pt",
       "price": "48,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0041710_us-casa-de-alba-chavena-cha-com-pires_470.jpeg",
@@ -393,8 +325,6 @@
     {
       "id": "022",
       "name": "Chávena Café com Pires - Casa Alba",
-      "bought": false,
-      "dateBought": null,
       "link": "https://vistaalegre.com/pt/casa-de-alba-chavena-cafe-com-pires-21136769-pt",
       "price": "40,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0041709_us-casa-de-alba-chavena-cafe-com-pires_470.jpeg",
@@ -403,8 +333,6 @@
     {
       "id": "023",
       "name": "Chávena Pequeno-almoço com Pires - Casa Alba",
-      "bought": false,
-      "dateBought": null,
       "link": "https://vistaalegre.com/pt/casa-de-alba-chavena-pequeno-almoco-com-pires-21136770-pt",
       "price": "50,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0041712_us-casa-de-alba-chavena-pequeno-almoco-com-pires_470.jpeg",
@@ -413,8 +341,6 @@
     {
       "id": "024",
       "name": "Prato Doce - Casa Alba",
-      "bought": false,
-      "dateBought": null,
       "link": "https://vistaalegre.com/pt/casa-de-alba-prato-doce-21136761-pt",
       "price": "25,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0041714_us-casa-de-alba-prato-doce_470.jpeg",
@@ -423,8 +349,6 @@
     {
       "id": "025",
       "name": "Saladeira - Casa Alba",
-      "bought": false,
-      "dateBought": null,
       "link": "https://vistaalegre.com/pt/casa-de-alba-saladeira-21136765-pt?gclid=Cj0KCQjw06OTBhC_ARIsAAU1yOU7aiP--o4X_ep_XnwQBl080rNdq7tWnT8YppwvsW34uVDalo7CtZAaAlw1EALw_wcB",
       "price": "100,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0041718_us-casa-de-alba-saladeira_470.jpeg",
@@ -433,8 +357,6 @@
     {
       "id": "026",
       "name": "Chávena Consomé com pires - Casa Alba",
-      "bought": false,
-      "dateBought": null,
       "link": "https://vistaalegre.com/pt/casa-de-alba-chavena-consome-com-pires-21136771-pt",
       "price": "60,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0041711_us-casa-de-alba-chavena-consome-com-pires_470.jpeg",
@@ -443,8 +365,6 @@
     {
       "id": "027",
       "name": "Vela perfumada - Bee Gold",
-      "bought": true,
-      "dateBought": null,
       "link": "https://vistaalegre.com/pt/bee-gold-vela-perfumada-21134110-pt",
       "price": "77,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0034633_us-bee-gold-vela-perfumada_470.jpeg",
@@ -453,8 +373,6 @@
     {
       "id": "028",
       "name": "Conjunto 3 Peças Elegance Red + Tapete",
-      "bought": false,
-      "dateBought": null,
       "link": "https://www.torresnovas1845.pt/en/products/elegance-luxury-bath-towels-cardinal-red?variant=33241179488338",
       "price": "90,98",
       "image": "https://cdn.shopify.com/s/files/1/0282/4362/4018/products/torres-novas-elegance-bath-towels-cardinal-red_902x1024.jpg?v=1638475812",
@@ -463,8 +381,6 @@
     {
       "id": "029",
       "name": "Conjunto 3 Peças Elegance Beige + Tapete",
-      "bought": false,
-      "dateBought": null,
       "link": "https://www.torresnovas1845.pt/en/products/elegance-luxury-bath-towels-beige?variant=32973861290066",
       "price": "90,98",
       "image": "https://cdn.shopify.com/s/files/1/0282/4362/4018/products/torres-novas-elegance-bath-towels-beige_902x1024.jpg?v=1638475518",
@@ -473,8 +389,6 @@
     {
       "id": "030",
       "name": "Conjunto Capa Edredão Cama 150cm",
-      "bought": false,
-      "dateBought": null,
       "link": "https://www.elcorteingles.pt/casa-e-decoracao/A40771953-conjunto-de-capa-de-edredao-em-algodao-tokio-blossom/",
       "price": "159,00",
       "image": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202202/09/00123530101023____4__1200x1200.jpg",
@@ -483,8 +397,6 @@
     {
       "id": "031",
       "name": "Vaso Abelha",
-      "bought": false,
-      "dateBought": null,
       "link": "https://pt.bordallopinheiro.com/vaso-abelha",
       "price": "33,00",
       "image": "https://pt.bordallopinheiro.com/content/images/thumbs/0001505_jardim-de-insetos-vaso-abelha_540.jpeg",
@@ -493,8 +405,6 @@
     {
       "id": "032",
       "name": "Vaso Joaninha",
-      "bought": false,
-      "dateBought": null,
       "link": "https://pt.bordallopinheiro.com/vaso-joaninha",
       "price": "33,00",
       "image": "https://pt.bordallopinheiro.com/content/images/thumbs/0001502_jardim-de-insetos-vaso-joaninha_540.jpeg",
@@ -503,8 +413,6 @@
     {
       "id": "033",
       "name": "Jarra Plátanos",
-      "bought": false,
-      "dateBought": null,
       "link": "https://pt.bordallopinheiro.com/jarra-32",
       "price": "98,00",
       "image": "https://pt.bordallopinheiro.com/content/images/thumbs/0001646_platanos-jarra-32_540.jpeg",
@@ -513,8 +421,6 @@
     {
       "id": "034",
       "name": "Cesto de Lixo - Champagne",
-      "bought": false,
-      "dateBought": null,
       "link": "https://www.elcorteingles.pt/casa-e-decoracao/A37289802-cesto-de-lixo-de-casa-de-banho-com-pedal-newicon-5-l-brabantia/",
       "price": "43,95",
       "image": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202007/22/00159511808665____1__1200x1200.jpg",
@@ -523,8 +429,6 @@
     {
       "id": "035",
       "name": "Sanduicheira Grill",
-      "bought": false,
-      "dateBought": null,
       "link": "https://www.fnac.pt/mp18723403/Sanduicheira-Grill-CREATE-STONE-GRILL-2000#omnsearchpos=15",
       "price": "40,95",
       "image": "https://static.fnac-static.com/multimedia/Images/PT/MC/4b/b2/1d/18723403/1520-2.jpg",
@@ -533,8 +437,6 @@
     {
       "id": "036",
       "name": "Grelhador e Crepeira Elétrica",
-      "bought": false,
-      "dateBought": null,
       "link": "https://www.elcorteingles.pt/electrodomesticos/A36661332-grelhador-e-crepeira-eletrico-wmf-raclette-de-1500w-inox/",
       "price": "169,90",
       "image": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202104/23/00107742419760____3__1200x1200.jpg",
@@ -543,8 +445,6 @@
     {
       "id": "037",
       "name": "Wok Tefal",
-      "bought": false,
-      "dateBought": null,
       "link": "https://www.worten.pt/casa/utensilios-cozinha/para-cozinhar/frigideiras-woks-e-cataplanas/wok-tefal-unlimited-premium-28-cm-7391322",
       "price": "50,99",
       "image": "https://www.worten.pt/i/ab894cee64200773c5a14d46f3cf5bf23adec3df.jpg",
@@ -553,8 +453,6 @@
     {
       "id": "038",
       "name": "Aspirador/Máquina a Vapor",
-      "bought": false,
-      "dateBought": null,
       "link": "https://www.worten.pt/pequenos-eletrodomesticos/maquinas-de-limpeza/maquinas-de-limpeza-a-vapor/maquina-de-limpeza-a-vapor-h-koenig-arya600-1800-w-4-bar-MRKEAN-3701335310174",
       "price": "150,00",
       "image": "https://www.worten.pt/i/5c2fbb8c061ae8f79290adc02090d0975422157c.jpg",
@@ -563,8 +461,6 @@
     {
       "id": "039",
       "name": "Ferro Vapor Vertical",
-      "bought": false,
-      "dateBought": null,
       "link": "https://www.worten.pt/pequenos-eletrodomesticos/tratamento-de-roupa/ferros-com-caldeira/ferro-com-caldeira-vertical-taurus-sliding-care-nstop-pressao-7-bar-debito-de-vapor-130-g-min-7306875",
       "price": "159,99",
       "image": "https://www.worten.pt/i/cf0df74e1b4de40da87217f8340af78fb5d2d6c9.jpg",
@@ -573,8 +469,6 @@
     {
       "id": "040",
       "name": "Nintendo Joy-Con Laranja/Lilás",
-      "bought": false,
-      "dateBought": null,
       "link": "https://www.fnac.pt/Joy-Con-Nintendo-Switch-E-D-Roxo-Laranja-Neon-Acessorio-Consola-Acessorios-Nintendo-Switch/a7146462#st=joy+con+nintendo&ct=Todos+os+produtos&t=p",
       "price": "79,99",
       "image": "https://static.fnac-static.com/multimedia/Images/PT/NR/7d/29/55/5581181/1520-1.jpg",
