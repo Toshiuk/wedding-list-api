@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Toshi001",
+    "name": "Toshi",
+    "bought": true,
+    "itemsBought": []
+  },
+  {
+    "id": "Lei002",
+    "name": "Lei",
+    "bought": true,
+    "itemsBought": []
+  },
+  {
+    "id": "Marina003",
+    "name": "Marina",
+    "bought": true,
+    "itemsBought": []
+  },
+  {
+    "id": "Pablo004",
+    "name": "Pablo",
+    "bought": false,
+    "itemsBought": [
+      {
+        "item": "015",
+        "dateBought": "2022-05-13T10:37:19.747Z",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": "Juliano005",
+    "name": "Juliano",
+    "bought": false,
+    "itemsBought": [
+      {
+        "item": "031",
+        "dateBought": "2022-05-13T11:09:55.182Z",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": "Roberta006",
+    "name": "Roberta",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "Breno007",
+    "name": "Breno",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "Maurilio008",
+    "name": "Maurilio",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "Renata009",
+    "name": "Renata",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "James010",
+    "name": "James",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "Inês011",
+    "name": "Inês",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "Vanessa012",
+    "name": "Vanessa",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "Afonso013",
+    "name": "Afonso",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "Carina014",
+    "name": "Carina",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "João015",
+    "name": "João",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "Débora016",
+    "name": "Débora",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "Rosário017",
+    "name": "Rosário",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "Nino018",
+    "name": "Nino",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "Mariana019",
+    "name": "Mariana",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "Helena020",
+    "name": "Helena",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "Félix021",
+    "name": "Félix",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "João022",
+    "name": "João Pedro",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "Sandra023",
+    "name": "Sandra",
+    "bought": false,
+    "itemsBought": []
+  },
+  {
+    "id": "Luís024",
+    "name": "Luís",
+    "bought": false,
+    "itemsBought": []
+  }
+]

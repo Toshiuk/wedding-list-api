@@ -22,13 +22,25 @@
       "id": "Pablo004",
       "name": "Pablo",
       "bought": false,
-      "itemsBought": []
+      "itemsBought": [
+        {
+          "item": "015",
+          "dateBought": "2022-05-13T10:37:19.747Z",
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "Juliano005",
       "name": "Juliano",
       "bought": false,
-      "itemsBought": []
+      "itemsBought": [
+        {
+          "item": "031",
+          "dateBought": "2022-05-13T11:09:55.182Z",
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "Roberta006",
@@ -264,7 +276,8 @@
       "link": "https://vistaalegre.com/pt/bicos-castanho-pack-4-calices-de-vinho-branco-casta-49001551-pt",
       "price": "33,00",
       "image": "https://vistaalegre.com/pt/content/images/thumbs/0035877_es-bicos-castanho-pack-4-calices-de-vinho-branco-casta_470.jpeg",
-      "quantity": 3
+      "quantity": 2,
+      "dateBought": "2022-05-13T10:37:20.113Z"
     },
     {
       "id": "016",
@@ -400,7 +413,8 @@
       "link": "https://pt.bordallopinheiro.com/vaso-abelha",
       "price": "33,00",
       "image": "https://pt.bordallopinheiro.com/content/images/thumbs/0001505_jardim-de-insetos-vaso-abelha_540.jpeg",
-      "quantity": 1
+      "quantity": 0,
+      "dateBought": "2022-05-13T11:09:55.555Z"
     },
     {
       "id": "032",
